@@ -6,7 +6,7 @@ const ytdl = require('ytdl');
 // create an instance of a Discord Client, and call it bot
 const bot = new Discord.Client();
 // the token of your bot - https://discordapp.com/developers/applications/me
-const token = 'Mjk0NTY2NTUwMjEwNjA5MTU0.C7XB1g.Rkg__tq1OB2RQyWYd66LPySYSYg';
+const token = '';
 //dispatcher for streaming music
 var dispatcher = null;
 
