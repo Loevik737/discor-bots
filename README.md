@@ -16,8 +16,8 @@ Bot written in js. The bot can be added with this link: https://discordapp.com/o
   
 # Setup
 - If you want to host or change the bot yourself you can follow the same steps as i did:
-  1)
-  2)
+  - 1)
+  - 2)
   
 
   
