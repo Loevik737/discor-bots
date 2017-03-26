@@ -10,7 +10,7 @@ Bot written in js. The bot can be added with this link: https://discordapp.com/o
   -  [!resume] :: resuming the audiostream after paused
  
 # hahaa.js 
-- description: writes "I'm 12 btw" after a users name, can only be changed in the script
+- description: writes "I'm 12 btw" after a user posts a message(name can be changed in script only)
 - commands
   - none
   
