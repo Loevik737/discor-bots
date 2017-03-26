@@ -23,7 +23,10 @@ Bot written in js. The bot can be added with this link: https://discordapp.com/o
     4) Install in project folder cmd(admin): npm install --save ffmpeg-binaries
     5) Make sure ffmpeg also comes in the node_modules folder and not in the roaming/npm folder witch it did for me
     7) For hosting you can just use node <filename.js> for testing each script, or pm2(https://github.com/Unitech/pm2) to host all scripts at once with a easy to use console layout
-  
-
+- Linux(Ubuntu not tested)
+    1) Install the latest version of node(6+)
+    2) Install in project folder cmd(admin): npm install discord.js node-opus --save 
+    3) Install in project folder cmd(admin): npm install --save ffmpeg-binaries
+    4) For hosting you can just use node <filename.js> for testing each script, or pm2(https://github.com/Unitech/pm2) to host all scripts at once with a easy to use console layout
   
  
