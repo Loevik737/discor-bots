@@ -1,7 +1,7 @@
 # discord-bot
 Bot written in js. The bot can be added with this link: https://discordapp.com/oauth2/authorize?&client_id=294566550210609154&scope=bot&permissions=0 . The bot is hosted on my computer, so its only online when I am.
 
-# Music.js 
+# music.js 
 - description: plays the audio form a youtube video for all users in a voice-channel
 - commands
   -  [!play] [yt-link] [volume] :: playing the audiosteam to all the users of your current voice-channel
