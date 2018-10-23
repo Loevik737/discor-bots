@@ -8,11 +8,6 @@ Bot written in js. The bot can be added with this link: https://discordapp.com/o
   -  !stop :: stoping the audiostream, can't be resumed
   -  !pause :: pausing the audiostream
   -  !resume :: resuming the audiostream after paused
- 
-# hahaa.js 
-- description: writes "I'm 12 btw" after a user posts a message(name can be changed in script only)
-- commands
-  - none
   
 # Setup
 - If you want to host or change the bot yourself you can follow the same steps as i did:
